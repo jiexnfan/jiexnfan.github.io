@@ -6,6 +6,7 @@ website:
   title: "Jiexin Fan"
   description: "My Professional Portfolio"
   site-url: "https://jiexnfan.github.io"
+
   navbar:
     background: primary
     left:
