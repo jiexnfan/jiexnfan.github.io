@@ -1,31 +1,38 @@
 ---
-title: "jiexinfan.github.io"
+title: "Welcome"
 ---
 
-This is a Quarto website.
+# Hi, I'm Jiexin Fan 👋
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+Welcome to my personal website!  
+I’m currently pursuing my **Master’s in Business Analytics at Boston University**,  
+where I apply data-driven insights to solve real-world business and operational challenges.
+
 ---
-title: "Welcome to My Website"
-author: "Jiexin Fan"
-date: "2025-09-14"
-format:
-  html:
-    theme: minty
-    toc: true
+
+## 💼 What I Do
+I combine **analytical thinking** and **strategic problem-solving** across these areas:
+- Business Analytics & Consulting  
+- Operations Management  
+- Process Optimization & Simulation  
+
 ---
-# Hello, World!  
-Welcome to my Quarto website.  
 
-## About Me
-I am Jiexin Fan, welcome to my personal website.
+## 🌟 Featured Projects
+Here are a few of my favorite projects:
+- 🧮 [Stickley Adhesives II – Process Optimization](projects.qmd#🧮-stickley-adhesives-ii--process-optimization)
+- 🏥 [Laralex Hospital – Quality Management](projects.qmd#🏥-laralex-hospital--quality-management)
+- 💻 [IMD Help Desk – Queue Simulation](projects.qmd#💻-imd-help-desk--queue-simulation)
 
-## Projects
-- Project 1
-- Project 2
+You can explore all my project details on the [**Projects**](projects.qmd) page.
 
-check check for assignment1 
+---
 
-Edited on EC2
+## 📄 Learn More
+- [**CV**](cv.qmd) — View and download my full résumé  
+- [**Contact**](contact.qmd) — Let’s connect on LinkedIn or by email  
+- [**GitHub**](https://github.com/jiexinfan){target="_blank"} — See more of my code and analysis work  
 
+---
 
+*Thanks for visiting — I hope you enjoy exploring my portfolio!*

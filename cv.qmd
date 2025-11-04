@@ -2,7 +2,8 @@
 title: "Curriculum Vitae"
 ---
 
-# My Professional Journey 
+
+## My Professional Journey 
 
 Welcome to my CV page!  
 Here you can find a brief overview of my background and download my full résumé in PDF format.
@@ -17,8 +18,8 @@ My academic and professional experiences allow me to bridge **data-driven insigh
 
 ## 🎓 Education
 - **Boston University** — Master of Science in Business Analytics  
-- **[Your Undergraduate University]** — Bachelor of Mathematics and Law  
-- **[Your Law School]** — Master of Laws (LL.M.)
+- **Capital University of Economics and Business** — Bachelor of Mathematics and Law  
+- **Capital University of Economics and Business** — Master of Laws (LL.M.)
 
 ---
 

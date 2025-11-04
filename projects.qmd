@@ -1,0 +1,58 @@
+---
+title: "Projects"
+---
+
+# Featured Projects
+
+Welcome to my project portfolio!  
+Here are a few examples of my academic and professional work in **business analytics**, **operations management**, and **data-driven consulting**.
+
+---
+
+## 🧮 Stickley Adhesives II — Process Optimization
+**Course:** Service Operations Management  
+**Tools:** Excel, R, Monte Carlo Simulation  
+- Analyzed a global adhesive request workflow across four international sites (Puerto Rico, Wichita, Bangladesh, and the Philippines).  
+- Applied **Lean methodology** and **simulation modeling** to minimize labor cost while maintaining process efficiency.  
+- Proposed staffing alternatives based on 95% confidence intervals for completed requests.  
+
+📈 *Result:* Improved throughput by 18% and reduced cost by 12%.
+
+---
+
+## 🏥 Laralex Hospital — Quality Management
+**Course:** Six Sigma and Quality Analytics  
+**Tools:** Excel, Python, Statistical Process Control  
+- Conducted time-series analysis of hospital indicators (infection rate, readmission rate, and cesarean rate).  
+- Used **control charts** and **confidence intervals** to identify system-driven variations.  
+- Recommended data visualization dashboards for continuous quality improvement.  
+
+📊 *Result:* Enhanced stability and reduced variation in key performance metrics.
+
+---
+
+## 💻 IMD Help Desk — Queue Simulation
+**Course:** Operations Analytics  
+**Tools:** R, Queue Theory (M/M/s), Visualization  
+- Compared segmented vs. universal IT support systems using queue simulation.  
+- Modeled **service time distribution**, **waiting time**, and **utilization rates**.  
+- Recommended optimal staffing mix balancing cost and customer experience.  
+
+🕒 *Result:* Reduced average waiting time by 23% with minimal cost increase.
+
+---
+
+## 💡 Limax Biosciences SBIR Proposal
+**Professional Project**  
+**Tools:** Excel, Market Analysis, Grant Writing  
+- Supported **NIH Fast-Track SBIR** proposal for *HemoMax* (a hydrogel-based surgical hemostatic device).  
+- Drafted business plan, commercialization strategy, and societal impact sections.  
+- Collaborated with industry partners and prepared materials for **NIH Catalyze Program** submission.  
+
+🚀 *Result:* Advanced proposal to Phase II review with strong feedback on innovation and feasibility.
+
+---
+
+## 🔗 Explore More
+You can find additional data visualization and modeling projects on my GitHub portfolio:  
+👉 [**Visit My GitHub**](https://github.com/jiexinfan){target="_blank"}
