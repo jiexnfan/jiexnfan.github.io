@@ -1,37 +1,156 @@
 [
   {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "Welcome to my project portfolio!\nHere are a few examples of my academic and professional work in business analytics, operations management, and data-driven consulting.\n\n\n\nCourse: Service Operations Management\nTools: Excel, R, Monte Carlo Simulation\n- Analyzed a global adhesive request workflow across four international sites (Puerto Rico, Wichita, Bangladesh, and the Philippines).\n- Applied Lean methodology and simulation modeling to minimize labor cost while maintaining process efficiency.\n- Proposed staffing alternatives based on 95% confidence intervals for completed requests.\n📈 Result: Improved throughput by 18% and reduced cost by 12%.\n\n\n\n\nCourse: Six Sigma and Quality Analytics\nTools: Excel, Python, Statistical Process Control\n- Conducted time-series analysis of hospital indicators (infection rate, readmission rate, and cesarean rate).\n- Used control charts and confidence intervals to identify system-driven variations.\n- Recommended data visualization dashboards for continuous quality improvement.\n📊 Result: Enhanced stability and reduced variation in key performance metrics.\n\n\n\n\nCourse: Operations Analytics\nTools: R, Queue Theory (M/M/s), Visualization\n- Compared segmented vs. universal IT support systems using queue simulation.\n- Modeled service time distribution, waiting time, and utilization rates.\n- Recommended optimal staffing mix balancing cost and customer experience.\n🕒 Result: Reduced average waiting time by 23% with minimal cost increase.\n\n\n\n\nProfessional Project\nTools: Excel, Market Analysis, Grant Writing\n- Supported NIH Fast-Track SBIR proposal for HemoMax (a hydrogel-based surgical hemostatic device).\n- Drafted business plan, commercialization strategy, and societal impact sections.\n- Collaborated with industry partners and prepared materials for NIH Catalyze Program submission.\n🚀 Result: Advanced proposal to Phase II review with strong feedback on innovation and feasibility.\n\n\n\n\nYou can find additional data visualization and modeling projects on my GitHub portfolio:\n👉 Visit My GitHub"
+  },
+  {
+    "objectID": "projects.html#stickley-adhesives-ii-process-optimization",
+    "href": "projects.html#stickley-adhesives-ii-process-optimization",
+    "title": "Projects",
+    "section": "",
+    "text": "Course: Service Operations Management\nTools: Excel, R, Monte Carlo Simulation\n- Analyzed a global adhesive request workflow across four international sites (Puerto Rico, Wichita, Bangladesh, and the Philippines).\n- Applied Lean methodology and simulation modeling to minimize labor cost while maintaining process efficiency.\n- Proposed staffing alternatives based on 95% confidence intervals for completed requests.\n📈 Result: Improved throughput by 18% and reduced cost by 12%."
+  },
+  {
+    "objectID": "projects.html#laralex-hospital-quality-management",
+    "href": "projects.html#laralex-hospital-quality-management",
+    "title": "Projects",
+    "section": "",
+    "text": "Course: Six Sigma and Quality Analytics\nTools: Excel, Python, Statistical Process Control\n- Conducted time-series analysis of hospital indicators (infection rate, readmission rate, and cesarean rate).\n- Used control charts and confidence intervals to identify system-driven variations.\n- Recommended data visualization dashboards for continuous quality improvement.\n📊 Result: Enhanced stability and reduced variation in key performance metrics."
+  },
+  {
+    "objectID": "projects.html#imd-help-desk-queue-simulation",
+    "href": "projects.html#imd-help-desk-queue-simulation",
+    "title": "Projects",
+    "section": "",
+    "text": "Course: Operations Analytics\nTools: R, Queue Theory (M/M/s), Visualization\n- Compared segmented vs. universal IT support systems using queue simulation.\n- Modeled service time distribution, waiting time, and utilization rates.\n- Recommended optimal staffing mix balancing cost and customer experience.\n🕒 Result: Reduced average waiting time by 23% with minimal cost increase."
+  },
+  {
+    "objectID": "projects.html#limax-biosciences-sbir-proposal",
+    "href": "projects.html#limax-biosciences-sbir-proposal",
+    "title": "Projects",
+    "section": "",
+    "text": "Professional Project\nTools: Excel, Market Analysis, Grant Writing\n- Supported NIH Fast-Track SBIR proposal for HemoMax (a hydrogel-based surgical hemostatic device).\n- Drafted business plan, commercialization strategy, and societal impact sections.\n- Collaborated with industry partners and prepared materials for NIH Catalyze Program submission.\n🚀 Result: Advanced proposal to Phase II review with strong feedback on innovation and feasibility."
+  },
+  {
+    "objectID": "projects.html#explore-more",
+    "href": "projects.html#explore-more",
+    "title": "Projects",
+    "section": "",
+    "text": "You can find additional data visualization and modeling projects on my GitHub portfolio:\n👉 Visit My GitHub"
+  },
+  {
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "Curriculum Vitae",
+    "section": "",
+    "text": "Welcome to my CV page!\nHere you can find a brief overview of my background and download my full résumé in PDF format."
+  },
+  {
+    "objectID": "cv.html#my-professional-journey",
+    "href": "cv.html#my-professional-journey",
+    "title": "Curriculum Vitae",
+    "section": "",
+    "text": "Welcome to my CV page!\nHere you can find a brief overview of my background and download my full résumé in PDF format."
+  },
+  {
+    "objectID": "cv.html#professional-summary",
+    "href": "cv.html#professional-summary",
+    "title": "Curriculum Vitae",
+    "section": "💼 Professional Summary",
+    "text": "💼 Professional Summary\nI am a detail-oriented and analytical thinker with a strong foundation in Business Analytics, Operations Management, and Consulting.\nMy academic and professional experiences allow me to bridge data-driven insights and strategic decision-making, creating value for organizations through both quantitative analysis and effective communication."
+  },
+  {
+    "objectID": "cv.html#education",
+    "href": "cv.html#education",
+    "title": "Curriculum Vitae",
+    "section": "🎓 Education",
+    "text": "🎓 Education\n\nBoston University — Master of Science in Business Analytics\n\nCapital University of Economics and Business — Bachelor of Mathematics and Law\n\nCapital University of Economics and Business — Master of Laws (LL.M.)"
+  },
+  {
+    "objectID": "cv.html#professional-experience",
+    "href": "cv.html#professional-experience",
+    "title": "Curriculum Vitae",
+    "section": "🧑‍💻 Professional Experience",
+    "text": "🧑‍💻 Professional Experience\nBusiness Assistant — International Trade (2 years)\n- Managed contracts and coordinated cross-border operations.\n- Supported decision-making using quantitative and legal analysis.\nIntern — Limax Biosciences (Current)\n- Conduct market research, competitive analysis, and business planning.\n- Collaborate on SBIR grant applications and commercialization strategy."
+  },
+  {
+    "objectID": "cv.html#download-my-full-cv",
+    "href": "cv.html#download-my-full-cv",
+    "title": "Curriculum Vitae",
+    "section": "📄 Download My Full CV",
+    "text": "📄 Download My Full CV\nYou can download the full version of my CV here:\n👉 Download CV (PDF)\n\nLast updated: November 2025"
+  },
+  {
+    "objectID": "aboutme.html",
+    "href": "aboutme.html",
+    "title": "About Me",
+    "section": "",
+    "text": "Welcome to my personal website!\nI’m currently pursuing my Master’s in Business Analytics at Boston University, where I combine data-driven insights with strategic thinking to solve real-world problems.\n\n\n\nBefore joining BU, I earned a Bachelor’s degree in Mathematics and Law, and later a Master of Laws (LL.M).\nI also worked for two years as a Business Assistant in International Trade, where I managed contracts and data-driven decision processes.\n\n\n\n\nI’m passionate about: - Business Analytics & Consulting\n- Operations Management\n- Process Optimization & Simulation Modeling\nThrough my work, I aim to bridge analytical thinking and legal reasoning to support smarter business decisions.\n\n\n\n\nI’m a dog person 🐶 currently living with a German Shepherd.\nIn my free time, I enjoy snowboarding, cooking, and exploring data visualization techniques that tell compelling stories.\n\n\n\n\nRight now, I’m enhancing my technical portfolio with projects in: - Simulation and Optimization (R & Excel) - Machine Learning Applications (Python) - Healthcare Operations & Process Analysis\n\nThank you for visiting my site — feel free to check out my Projects or Contact pages to connect!"
+  },
+  {
+    "objectID": "aboutme.html#education-background",
+    "href": "aboutme.html#education-background",
+    "title": "About Me",
+    "section": "",
+    "text": "Before joining BU, I earned a Bachelor’s degree in Mathematics and Law, and later a Master of Laws (LL.M).\nI also worked for two years as a Business Assistant in International Trade, where I managed contracts and data-driven decision processes."
+  },
+  {
+    "objectID": "aboutme.html#professional-interests",
+    "href": "aboutme.html#professional-interests",
+    "title": "About Me",
+    "section": "",
+    "text": "I’m passionate about: - Business Analytics & Consulting\n- Operations Management\n- Process Optimization & Simulation Modeling\nThrough my work, I aim to bridge analytical thinking and legal reasoning to support smarter business decisions."
+  },
+  {
+    "objectID": "aboutme.html#personal",
+    "href": "aboutme.html#personal",
+    "title": "About Me",
+    "section": "",
+    "text": "I’m a dog person 🐶 currently living with a German Shepherd.\nIn my free time, I enjoy snowboarding, cooking, and exploring data visualization techniques that tell compelling stories."
+  },
+  {
+    "objectID": "aboutme.html#current-focus",
+    "href": "aboutme.html#current-focus",
+    "title": "About Me",
+    "section": "",
+    "text": "Right now, I’m enhancing my technical portfolio with projects in: - Simulation and Optimization (R & Excel) - Machine Learning Applications (Python) - Healthcare Operations & Process Analysis\n\nThank you for visiting my site — feel free to check out my Projects or Contact pages to connect!"
+  },
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contact",
+    "section": "",
+    "text": "Get in Touch\nThank you for visiting my website!\nIf you’d like to connect or learn more about my work, please reach out through the following channels:\n📧 Email: jiexinfan@gmail.com\n💼 LinkedIn: linkedin.com/in/jiexnfan\n💻 GitHub: github.com/jiexinfan\n\nI’m always open to networking opportunities, collaborations, and discussions related to business analytics, operations management, and consulting.\nFeel free to send me a message anytime!"
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "jiexinfan.github.io",
+    "title": "Welcome",
     "section": "",
-    "text": "This is a Quarto website."
+    "text": "Welcome to my personal website!\nI’m currently pursuing my Master’s in Business Analytics at Boston University,\nwhere I apply data-driven insights to solve real-world business and operational challenges.\n\n\n\nI combine analytical thinking and strategic problem-solving across these areas: - Business Analytics & Consulting\n- Operations Management\n- Process Optimization & Simulation\n\n\n\n\nHere are a few of my favorite projects: - 🧮 Stickley Adhesives II – Process Optimization - 🏥 Laralex Hospital – Quality Management - 💻 IMD Help Desk – Queue Simulation\nYou can explore all my project details on the Projects page.\n\n\n\n\n\nCV — View and download my full résumé\n\nContact — Let’s connect on LinkedIn or by email\n\nGitHub — See more of my code and analysis work\n\n\nThanks for visiting — I hope you enjoy exploring my portfolio!"
   },
   {
-    "objectID": "index.html#to-learn-more-about-quarto-websites-visit-httpsquarto.orgdocswebsites.",
-    "href": "index.html#to-learn-more-about-quarto-websites-visit-httpsquarto.orgdocswebsites.",
-    "title": "jiexinfan.github.io",
-    "section": "To learn more about Quarto websites visit https://quarto.org/docs/websites.",
-    "text": "To learn more about Quarto websites visit https://quarto.org/docs/websites.\ntitle: “Welcome to My Website” author: “Jiexin Fan” date: “2025-09-14” format: html: theme: minty toc: true — # Hello, World!\nWelcome to my Quarto website."
-  },
-  {
-    "objectID": "index.html#about-me",
-    "href": "index.html#about-me",
-    "title": "jiexinfan.github.io",
-    "section": "About Me",
-    "text": "About Me\nI am Jiexin Fan, welcome to my personal website."
-  },
-  {
-    "objectID": "index.html#projects",
-    "href": "index.html#projects",
-    "title": "jiexinfan.github.io",
-    "section": "Projects",
-    "text": "Projects\n\nProject 1\nProject 2"
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
+    "objectID": "index.html#what-i-do",
+    "href": "index.html#what-i-do",
+    "title": "Welcome",
     "section": "",
-    "text": "About this site"
+    "text": "I combine analytical thinking and strategic problem-solving across these areas: - Business Analytics & Consulting\n- Operations Management\n- Process Optimization & Simulation"
+  },
+  {
+    "objectID": "index.html#featured-projects",
+    "href": "index.html#featured-projects",
+    "title": "Welcome",
+    "section": "",
+    "text": "Here are a few of my favorite projects: - 🧮 Stickley Adhesives II – Process Optimization - 🏥 Laralex Hospital – Quality Management - 💻 IMD Help Desk – Queue Simulation\nYou can explore all my project details on the Projects page."
+  },
+  {
+    "objectID": "index.html#learn-more",
+    "href": "index.html#learn-more",
+    "title": "Welcome",
+    "section": "",
+    "text": "CV — View and download my full résumé\n\nContact — Let’s connect on LinkedIn or by email\n\nGitHub — See more of my code and analysis work\n\n\nThanks for visiting — I hope you enjoy exploring my portfolio!"
   }
 ]
