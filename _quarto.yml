@@ -1,10 +1,11 @@
 project:
   type: website
+  output-dir: _site
 
 website:
   title: "Jiexin Fan"
   description: "My Professional Portfolio"
-  site-url: "https://jiexinfan.github.io"
+  site-url: "https://jiexnfan.github.io"
   navbar:
     background: primary
     left:
