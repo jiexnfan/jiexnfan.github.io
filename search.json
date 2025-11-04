@@ -1,0 +1,37 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "jiexinfan.github.io",
+    "section": "",
+    "text": "This is a Quarto website."
+  },
+  {
+    "objectID": "index.html#to-learn-more-about-quarto-websites-visit-httpsquarto.orgdocswebsites.",
+    "href": "index.html#to-learn-more-about-quarto-websites-visit-httpsquarto.orgdocswebsites.",
+    "title": "jiexinfan.github.io",
+    "section": "To learn more about Quarto websites visit https://quarto.org/docs/websites.",
+    "text": "To learn more about Quarto websites visit https://quarto.org/docs/websites.\ntitle: “Welcome to My Website” author: “Jiexin Fan” date: “2025-09-14” format: html: theme: minty toc: true — # Hello, World!\nWelcome to my Quarto website."
+  },
+  {
+    "objectID": "index.html#about-me",
+    "href": "index.html#about-me",
+    "title": "jiexinfan.github.io",
+    "section": "About Me",
+    "text": "About Me\nI am Jiexin Fan, welcome to my personal website."
+  },
+  {
+    "objectID": "index.html#projects",
+    "href": "index.html#projects",
+    "title": "jiexinfan.github.io",
+    "section": "Projects",
+    "text": "Projects\n\nProject 1\nProject 2"
+  }
+]
