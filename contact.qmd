@@ -1,0 +1,17 @@
+---
+title: "Contact"
+---
+
+# Get in Touch
+
+Thank you for visiting my website!  
+If you’d like to connect or learn more about my work, please reach out through the following channels:
+
+📧 **Email:** [jiexinfan@gmail.com](mailto:jiexinfan@gmail.com)  
+💼 **LinkedIn:** [linkedin.com/in/jiexnfan](https://www.linkedin.com/in/jiexnfan)  
+💻 **GitHub:** [github.com/jiexinfan](https://github.com/jiexinfan)
+
+---
+
+I’m always open to networking opportunities, collaborations, and discussions related to business analytics, operations management, and consulting.  
+Feel free to send me a message anytime!
