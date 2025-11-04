@@ -1,22 +1,42 @@
-title: "About"
+---
+title: "About Me"
+---
 
+# Hi, I'm Jiexin 👋
 
-About this site
+Welcome to my personal website!  
+I'm currently pursuing my **Master’s in Business Analytics at Boston University**, where I combine data-driven insights with strategic thinking to solve real-world problems.
 
-# Personal
-Dog Person, living with a German Shepherd Dog
+---
 
-```{python}
-import pandas as pd
-import matplotlib.pyplot as plt
+## 🎓 Education & Background
+Before joining BU, I earned a **Bachelor’s degree in Mathematics and Law**, and later a **Master of Laws (LL.M)**.  
+I also worked for two years as a **Business Assistant in International Trade**, where I managed contracts and data-driven decision processes.
 
-data = pd.DataFrame({
-    "x": [1, 2, 3, 4, 5],
-    "y": [10, 20, 25, 30, 45]
-})
+---
 
-print(data)
+## 💼 Professional Interests
+I’m passionate about:
+- **Business Analytics & Consulting**  
+- **Operations Management**  
+- **Process Optimization & Simulation Modeling**
 
-plt.plot(data["x"], data["y"], marker="o")
-plt.title("Sample Plot")
-plt.show()
+Through my work, I aim to bridge analytical thinking and legal reasoning to support smarter business decisions.
+
+---
+
+## 🐾 Personal
+I’m a **dog person** 🐶 currently living with a **German Shepherd**.  
+In my free time, I enjoy snowboarding, cooking, and exploring data visualization techniques that tell compelling stories.
+
+---
+
+## 🌱 Current Focus
+Right now, I’m enhancing my technical portfolio with projects in:
+- Simulation and Optimization (R & Excel)
+- Machine Learning Applications (Python)
+- Healthcare Operations & Process Analysis
+
+---
+
+Thank you for visiting my site — feel free to check out my [Projects](projects.qmd) or [Contact](contact.qmd) pages to connect!
