@@ -1,5 +1,22 @@
----
 title: "About"
----
+
 
 About this site
+
+# Personal
+Dog Person, living with a German Shepherd Dog
+
+```{python}
+import pandas as pd
+import matplotlib.pyplot as plt
+
+data = pd.DataFrame({
+    "x": [1, 2, 3, 4, 5],
+    "y": [10, 20, 25, 30, 45]
+})
+
+print(data)
+
+plt.plot(data["x"], data["y"], marker="o")
+plt.title("Sample Plot")
+plt.show()
