@@ -1,0 +1,43 @@
+---
+title: "Curriculum Vitae"
+---
+
+# Curriculum Vitae
+
+Welcome to my CV page!  
+Here you can find a brief overview of my background and download my full résumé in PDF format.
+
+---
+
+## 💼 Professional Summary
+I am a detail-oriented and analytical thinker with a strong foundation in **Business Analytics**, **Operations Management**, and **Consulting**.  
+My academic and professional experiences allow me to bridge **data-driven insights** and **strategic decision-making**, creating value for organizations through both quantitative analysis and effective communication.
+
+---
+
+## 🎓 Education
+- **Boston University** — Master of Science in Business Analytics  
+- **[Your Undergraduate University]** — Bachelor of Mathematics and Law  
+- **[Your Law School]** — Master of Laws (LL.M.)
+
+---
+
+## 🧑‍💻 Professional Experience
+**Business Assistant — International Trade (2 years)**  
+- Managed contracts and coordinated cross-border operations.  
+- Supported decision-making using quantitative and legal analysis.  
+
+**Intern — Limax Biosciences (Current)**  
+- Conduct market research, competitive analysis, and business planning.  
+- Collaborate on SBIR grant applications and commercialization strategy.
+
+---
+
+## 📄 Download My Full CV
+You can download the full version of my CV here:
+
+👉 [**Download CV (PDF)**](cv/JiexinFan_CV.pdf){target="_blank"}
+
+---
+
+*Last updated: November 2025*
